@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex @thisAKcode - Aleksei Kupiakov 
 - 👀 I’m interested in Python, JavaScript, SQL, GIS, Web & WebGIS
 - 🌱 I’m currently learning FastAPI, HTMX
-- 💞️ I’m looking to collaborate on minimalistic Web applications with Geospatial in focus (FastAPI, D3 & Leaflet as tech stack).
+- 💞️ I’m looking to collaborate on minimalistic Web applications with focus on Geospatial tech (FastAPI, D3 & Leaflet as ideal tech stack).
 - 📫 alekseikupiakov@hotmail.com
 
 <!---
